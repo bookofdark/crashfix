@@ -1,4 +1,4 @@
-A quick fix for crashing on roblox
+A quick fix for crashing on roblox / solara
 
 # Disclaimer
 ## Important Notice: This tool is intended for educational purposes only.
